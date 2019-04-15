@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<people id="heylee">
+    this is a text!!!
+    <human group="Baby">
+        baby text!!!
+        <name>Heylee</name>
+        <age>18</age>
+        <skill>Eat</skill>
+    </human>
+    <human group="Dog">
+        dog text!!!
+        <name>TwoDogs</name>
+        <age>18</age>
+        <skill>Wow</skill>
+    </human>
+</people>
+
+        <!--    node:节点 | element:元素 | attribute:属性     -->
