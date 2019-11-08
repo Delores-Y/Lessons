@@ -10,9 +10,12 @@ public class List_001 {
         list.add("1");
         list.add("2");
         list.add("3");
+        int index = 0;
 
 //        list.clear();
+        System.out.println(list.get(0));
 
-        System.out.println(list.toString());
+        System.out.println(list.get(++index));
+        System.out.println(index);
     }
 }

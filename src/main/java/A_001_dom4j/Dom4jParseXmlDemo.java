@@ -46,7 +46,7 @@ public class Dom4jParseXmlDemo {
             System.out.println("根节点内文本：" + rootElement.getTextTrim());
 
             // 获取子节点
-            Element element = rootElement.element("human");
+            Element element = rootElement.element("human").element("skill");
             if (element != null)
                 System.out.println("子节点文本：" + element.getTextTrim());
 

@@ -13,6 +13,11 @@ public class AnonymousClass2 {
             }
 
             @Override
+            public void hello() {
+
+            }
+
+            @Override
             public void speak() {
                 System.out.println("speak 方法调用");
             }
@@ -30,6 +35,11 @@ public class AnonymousClass2 {
 
             }
 
+            @Override
+            public void hello() {
+
+            }
+
             public void say() {
                 System.out.println("匿名内部类自定义 say 方法");
             }
@@ -38,8 +48,10 @@ public class AnonymousClass2 {
     }
 }
 
-@FunctionalInterface
+//@FunctionalInterface
 interface Person2 {
 
     void speak();
+
+    void hello();
 }

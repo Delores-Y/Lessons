@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Enum_001 {
 
     public static void main(String[] args) {
-        System.out.println(Color.GREEN);
+        System.out.println(Color.GREEN.name());
         System.out.println(Arrays.toString(Color.values()));
         Color color = Color.PINK;
         switch (color) {

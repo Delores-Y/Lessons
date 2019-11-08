@@ -40,5 +40,9 @@ public class testNewDate {
 
         System.out.println();
 
+
+        System.out.println("********");
+        String sDate = sdf.format(new Date());
+
     }
 }

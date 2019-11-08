@@ -17,20 +17,31 @@ public class AnonymousClass {
             }
         }; //这里就是有个匿名内部类
 
+        f1.eat();
+
+        new Father() {
+            @Override
+            public void eat() {
+                super.drink();
+                System.out.println("eat something!!!");
+            }
+        }.eat();
+
+//        ((Father) () -> System.out.println("eat lambda")).eat();
+        // 抽象类不能用lambda
+
 
         Father f2 = new Son();
-
-        f1.eat();
         f2.eat();
 
-        System.out.println("^^^^^^^^^^^^^^^");
-
-        Son son = new Son();
-        son.eat();
-        System.out.println("****************");
-        son.drink();
-        System.out.println("****************");
-        son.init();
+//        System.out.println("^^^^^^^^^^^^^^^");
+//
+//        Son son = new Son();
+//        son.eat();
+//        System.out.println("****************");
+//        son.drink();
+//        System.out.println("****************");
+//        son.init();
 
     }
 }

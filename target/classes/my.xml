@@ -13,6 +13,9 @@
         <age>18</age>
         <skill>Wow</skill>
     </human>
+    <man>
+        <name>SuperMan</name>
+    </man>
 </people>
 
         <!--    node:节点 | element:元素 | attribute:属性     -->

@@ -8,12 +8,11 @@ public class AirportDao extends BaseDao {
 
         try {
             getConnection();
+            connection.setAutoCommit(false);
             String sql = "insert into Airport values (?,?,?)";
             ps = connection.prepareStatement(sql);
-            ps.setLong(1, airport.getId());
-            ps.setString(2, airport.getCountry());
-            ps.setString(3, airport.getComment());
-            ps.execute();
+            ps.executeQuery(sql);
+            connection.commit();
 
         } catch (SQLException e) {
             e.printStackTrace();

@@ -1,5 +1,6 @@
 package Thread.volatile_test;
 
+@SuppressWarnings("Duplicates")
 public class Test1 {
 
 //    public int inc = 0;
