@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b7c37b9e-c21b-4cfb-8bd5-a8a769dd3f4b" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="d9d325d0-ebb5-4959-a0f4-72f810853813" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/$Encypt/BASE64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/$Encypt/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String_something/Byte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,50 +25,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Exception/ExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/reentrantLock/ReentrantLockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-119">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Exception/FillInStackTrace/FillInExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/$Encypt/BASE64.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+              </folding>
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Thread/pool/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/$Encypt/MD5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Thread/pool/SingleThreadExecutorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/String_something/String_001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Thread/pool/ThreadFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-177">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/$_Genericity/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,42 +126,77 @@
                 <element signature="e#194#195#0" expanded="true" />
                 <element signature="e#254#255#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DataType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/$_Genericity/Generic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/Hyelee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/JK8/Demo2/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/List_001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/JK8/Demo2/ApplePredicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/String_something/StringBuilder_001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/$_Serializable/fastjson/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="23" selection-start-column="23" selection-end-column="23" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/String_something/Byte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
             </state>
           </provider>
         </entry>
@@ -130,6 +222,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/Enum/Enum_001.java" />
         <option value="$PROJECT_DIR$/src/main/java/Enum/Day.java" />
         <option value="$PROJECT_DIR$/src/main/java/$_Algorithm/FindWords.java" />
@@ -146,16 +239,52 @@
         <option value="$PROJECT_DIR$/src/main/java/JK8/defaultMethod/InterfaceB.java" />
         <option value="$PROJECT_DIR$/src/main/java/JK8/defaultMethod/InterfaceC.java" />
         <option value="$PROJECT_DIR$/src/main/java/JK8/defaultMethod/ClassA.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/FileIO/note" />
+        <option value="$PROJECT_DIR$/src/main/java/FileIO/ClassPath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileIO/Find.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Exception/BaseException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Exception/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Extend/SuperThis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Extend/Chinese.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Others/Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Others/FruitGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Others/MaxTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Others/Generic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Others/GenericTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Socket/GreetingClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Socket/GreetingServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/RunnableDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JK8/Demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JK8/Demo2/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InnerClass/AnonymousClass.java" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
         <option value="$PROJECT_DIR$/src/main/java/InnerClass/AnonymousClass2.java" />
         <option value="$PROJECT_DIR$/src/main/java/JK8/defaultMethod/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/InnerClass/AnonymousClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/JK8/defaultMethod/InterfaceD.java" />
         <option value="$PROJECT_DIR$/src/main/java/JK8/Demo/lambda/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/$_Object/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Exception/FillInStackTrace/FillInExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/$_Genericity/Generic.java" />
         <option value="$PROJECT_DIR$/src/main/java/$_Genericity/Test.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/Thread/Thread2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/Thread1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/Thread3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/volatile_test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/volatile_test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/volatile_test/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/volatile_test/Test4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/reentrantLock/ReentrantLockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/$Encypt/BASE64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/String_something/Byte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/$Encypt/MD5.java" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
       </list>
     </option>
   </component>
@@ -167,8 +296,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+<<<<<<< HEAD
     <option name="width" value="1920" />
     <option name="height" value="1080" />
+=======
+    <option name="x" value="63" />
+    <option name="y" value="27" />
+    <option name="width" value="1357" />
+    <option name="height" value="833" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -203,6 +339,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="lesson-phase-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lessons" type="462c0819:PsiDirectoryNode" />
@@ -228,6 +365,8 @@
               <item name="Thread" type="462c0819:PsiDirectoryNode" />
               <item name="pool" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
           </expand>
           <select />
         </subPane>
@@ -255,6 +394,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.FillInExceptionTest">
     <configuration name="AnonymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InnerClass.AnonymousClass" />
@@ -262,6 +402,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="InnerClass.*" />
+=======
+  <component name="RunManager" selected="Application.Byte">
+    <configuration name="BASE64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$Encypt.BASE64" />
+      <module name="Lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="$Encypt.*" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +419,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="FillInExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exception.FillInStackTrace.FillInExceptionTest" />
       <module name="lesson-phase-01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exception.FillInStackTrace.*" />
+=======
+    <configuration name="Byte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_something.Byte" />
+      <module name="Lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_something.*" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +442,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$_Object.Test" />
       <module name="lesson-phase-01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="$_Object.*" />
+=======
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$Encypt.MD5" />
+      <module name="Lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="$Encypt.*" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +465,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JK8.defaultMethod.Test" />
       <module name="lesson-phase-01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JK8.defaultMethod.*" />
+=======
+    <configuration name="ReentrantLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.reentrantLock.ReentrantLockTest" />
+      <module name="Lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.reentrantLock.*" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,6 +501,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="Application.FillInExceptionTest" />
@@ -328,6 +509,44 @@
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.AnonymousClass" />
         <item itemvalue="Application.testNewDate" />
+=======
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test4" />
+      <item itemvalue="Application.ReentrantLockTest" />
+      <item itemvalue="Application.Byte" />
+      <item itemvalue="Application.BASE64" />
+      <item itemvalue="Application.MD5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Byte" />
+        <item itemvalue="Application.MD5" />
+        <item itemvalue="Application.BASE64" />
+        <item itemvalue="Application.ReentrantLockTest" />
+        <item itemvalue="Application.Test4" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +559,7 @@
       <created>1570670365806</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1570670365806</updated>
       <workItem from="1570670367122" duration="4264000" />
       <workItem from="1570715837864" duration="6412000" />
@@ -357,6 +577,43 @@
       <workItem from="1573104865225" duration="175000" />
       <workItem from="1573105484139" duration="2627000" />
       <workItem from="1573175900490" duration="354000" />
+=======
+      <updated>1543558977958</updated>
+      <workItem from="1543558979626" duration="925000" />
+      <workItem from="1543805177239" duration="17780000" />
+      <workItem from="1545012941101" duration="355000" />
+      <workItem from="1545013487983" duration="10519000" />
+      <workItem from="1545142306087" duration="681000" />
+      <workItem from="1545277755460" duration="11499000" />
+      <workItem from="1545802568157" duration="852000" />
+      <workItem from="1545806566942" duration="26000" />
+      <workItem from="1545806736854" duration="97000" />
+      <workItem from="1545806858941" duration="452000" />
+      <workItem from="1545807531230" duration="524000" />
+      <workItem from="1545900958903" duration="2972000" />
+      <workItem from="1545981615402" duration="1249000" />
+      <workItem from="1546505220236" duration="1678000" />
+      <workItem from="1546587970057" duration="3622000" />
+      <workItem from="1546774827610" duration="3152000" />
+      <workItem from="1546823259354" duration="2426000" />
+      <workItem from="1546830638952" duration="563000" />
+      <workItem from="1546912078584" duration="3867000" />
+      <workItem from="1546997037905" duration="1131000" />
+      <workItem from="1547449473960" duration="3725000" />
+      <workItem from="1547602727064" duration="687000" />
+      <workItem from="1547615429802" duration="390000" />
+      <workItem from="1547709462441" duration="208000" />
+      <workItem from="1548042441860" duration="610000" />
+      <workItem from="1548060892247" duration="4100000" />
+      <workItem from="1549817358906" duration="20597000" />
+      <workItem from="1550714511889" duration="22000" />
+      <workItem from="1550714568150" duration="1849000" />
+      <workItem from="1554091174718" duration="25239000" />
+      <workItem from="1554686439944" duration="12452000" />
+      <workItem from="1555291683238" duration="634000" />
+      <workItem from="1557220081247" duration="13338000" />
+      <workItem from="1557364944001" duration="28156000" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
     </task>
     <servers />
   </component>
@@ -393,12 +650,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="57881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
+=======
+    <option name="totallyTimeSpent" value="176276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-30" width="1366" height="798" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2560606" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,6 +673,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38697788" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -416,6 +684,18 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.61793613" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19319563" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32685298" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.38292012" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40583232" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -434,6 +714,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/$_Serializable/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
@@ -532,6 +813,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JK8/Demo5/Test.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/JK8/Demo2/ApplePredicate.java">
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -841,6 +1125,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/$_Serializable/fastjson/Student.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
@@ -850,6 +1135,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+=======
+        <state relative-caret-position="-119">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hyelee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/List_001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/String_something/StringBuilder_001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/$Encypt/BASE64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/String_something/String_001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/String_something/Byte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/$Encypt/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+>>>>>>> 4a0421b68c439860484cc7bc1ce26dcd62ea8229
           <folding>
             <element signature="e#194#195#0" expanded="true" />
             <element signature="e#254#255#0" expanded="true" />
